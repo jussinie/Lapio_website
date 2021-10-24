@@ -1,3 +1,15 @@
-p {
-  background-color: red;
+h1 {
+  color: blue;
+}
+
+p, h2, h3 {
+  color: brown;
+}
+
+#punainen-kohta {
+  color: red;
+}
+
+ul, li {
+  color: pink;
 }
